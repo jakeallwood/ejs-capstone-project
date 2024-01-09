@@ -1,0 +1,57 @@
+pokemon pack open simulator
+https://dev.pokemontcg.io/dashboard
+https://docs.pokemontcg.io/
+https://tcg.pokemon.com/en-us/tcgl/droprate/
+https://brandpalettes.com/pokemon-color-codes/
+
+
+simple screen with pokemon pack floating in middle
+text saying click to open or some shit
+maybe some local database of which cards you've pulled
+maybe let user choose which pack to open
+
++----------------------------------------+
+|=                                       |
+|              __________                |
+|             |          |               |
+|             |          |               |
+|             |          |               |
+|             |          |               |
+|             |          |               |
+|             |__________|               |
+|                                        |
+|            click to open!              |
+|                                        |
+|                                        |
++----------------------------------------+
+
+maybe some animation to open/rotate between cards
++ the classic 3 from the back too
+
++----------+
+|=         |    this is what the burger menu should expand to
+|account?  |    basically just a few links to other pages
+|collection|    idk what i can do for account or stats at this point but w/e
+|stats?    |
+|about     |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
+|          |
++----------+
+
+
+energy
+uncommon
+uncommon
+uncommon
+common
+common
+common
+common
+common
+holo
+rare
